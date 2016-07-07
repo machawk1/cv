@@ -1,0 +1,119 @@
+---
+# Personal details
+name: Mat Kelly
+address:
+- Engineering and Computational Sciences Building
+- Old Dominion University
+- 4700 Elkhorn Avenue Suite 3102
+- Norfolk, Virginia 23529
+email: mkelly@cs.odu.edu
+urls: www.cs.odu.edu/~mkelly
+
+# Sections
+
+skills:
+- Digital Preservation, Personal Web Archiving, Information Visualization.
+
+education:
+- year: 2012--present
+  subject: Doctor of Philosophy in Computer Science
+  institute: Old Dominion University
+  city: Norfolk, VA
+- year: 2010--2012
+  subject: Master of Science in Computer Science
+  institute: Old Dominion University
+  city: Norfolk, VA
+  thesis: An Extensible Framework for Creating Personal Archives of Web Resources Requiring Authentication
+- year: 2001--2006
+  subject: Bachelor of Science in Computer Science
+  institute: University of Florida
+  city: Gainesville, FL
+
+experience:
+- years: \notOnCV{Jan 2015--May }2015
+  employer: Old Dominion University
+  job: Instructor, CS418 - Web Programming
+  city: Norfolk, VA
+- years: \notOnCV{Jan }2011--present
+  employer: Old Dominion University Department of Computer Science
+  job: Graduate Research Assistant
+  city: Norfolk, VA
+- years: \notOnCV{June }2011--present
+  employer: NASA Langley Research Center
+  job: Mobile Applications Developer
+  city: Hampton, VA
+- years: 2009
+  employer: BMW Group Information Technology Research Center
+  job: Research Intern
+  city: Greenville, SC
+- years: \notOnCV{Apr }2006--present
+  employer: Blade Software / Blade Agency
+  job: Web Programmer
+  city: Gainesville, FL
+- years: \notOnCV{Apr }2006--\notOnCV{Feb }2007
+  employer: SumTotal Systems, Inc. / MindSolve Technologies, Inc.
+  job: Web Programmer
+  city: Gainesville, FL
+- years: \notOnCV{May }2005--\notOnCV{Apr }2006
+  employer: Center for Instructional Technology and Training at University of Florida
+  job: Web Designer
+  city: Gainesville, FL
+- years: \notOnCV{May }2003--\notOnCV{Jan }2006
+  employer: The Independent Florida Alligator
+  job: Managing Editor, New Media
+  city: Gainesville, FL
+- years: \notOnCV{July }2004--\notOnCV{May }2005
+  employer: Office of Student Activities at University of Florida
+  job: Web/Graphics Designer
+  city: Gainesville, FL
+
+
+journalPublications:
+- Mat Kelly, "A Framework for Aggregating Private and Public Web Archives," Bulletin of the IEEE Technical Committee on Digital Libraries (TCDL), 11(3), \notOnCV{December}2015.
+- Justin F. Brunelle, Mat Kelly, Michele C. Weigle and Michael L. Nelson, "The Impact of JavaScript on Archivability," International Journal of Digital Libraries (IJDL), 17(2), pp. 95-117, \notOnCV{January }2015.
+- Justin F. Brunelle, Mat Kelly, Hany SalahEldeen, Michele C. Weigle and Michael L. Nelson, "Not All Mementos Are Created Equal$:$ Measuring the Impact of Missing Resources," International Journal of Digital Libraries (IJDL), 16(3), pp. 283-301, \notOnCV{May }2015.
+- Mat Kelly, Justin F. Brunelle, Michele C. Weigle and Michael L. Nelson. "A Method for Identifying Personalized Representations in the Archives," D-Lib Magazine, 19(11/12), 2013.
+
+conferencePublications:
+- Mat Kelly, Sawood Alam, Michael L. Nelson, and Michele C. Weigle, "InterPlanetary Wayback$:$ Peer-To-Peer Permanence of Web Archives," Accepted for Publication In Proceedings of the International Conference on Theory and Practice of Digital Libraries (TPDL), 2016.
+- Sawood Alam, Mat Kelly, and Michael L. Nelson, "InterPlanetary Wayback$:$ The Permanent Web Archive," In Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL), pp. 273-274, \notOnCV{Newark, NJ, June} 2016.
+- Wesley Jordan, Mat Kelly, Justin. F. Brunelle, Laura Vobrak, Michele C. Weigle, and Michael L. Nelson, "Mobile Mink$:$ Merging Mobile and Desktop Archived Webs," In Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL), pp. 243-244, \notOnCV{June }2015\notOnCV{, Best Poster Award}.
+- Michael Ruffing, Yangyang He, Mat Kelly, Jason O. Hallstrom, Stephan Olariu, and Michele C. Weigle. "A Retasking Framework For Wireless Sensor Networks," In Proceedings of the IEEE Military Communications Conference (MILCOM), pp. 1066-1071, \notOnCV{Baltimore, MD, }2014\notOnCV{October 6-8}.
+- Justin F. Brunelle, Mat Kelly, Hany SalahEldeen, Michele C. Weigle, and Michael L. Nelson, "Not All Mementos Are Created Equal$:$ Measuring The Impact Of Missing Resources," In Proceedings of the IEEE/ACM Joint Conference on Digital Libraries (JCDL), pp. 321-330, \notOnCV{September }2014\notOnCV{, Best Student Paper Award}.
+- Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "The Archival Acid Test$:$ Evaluating Archive Performance on Advanced HTML and JavaScript," In Proceedings of the IEEE/ACM Joint Conference on Digital Libraries (JCDL), pp. 25-28, \notOnCV{London, England, September }2014.
+- Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "Mink$:$ Integrating the Live and Archived Web Viewing Experience Using Web Browsers and Memento," In Proceedings of the IEEE/ACM Joint Conference on Digital Libraries (JCDL), pp. 469-470, \notOnCV{London, England, September }2014.
+- Mat Kelly, Michael L. Nelson and Michele C. Weigle. "Graph-Based Navigation of a Box Office Prediction System," In Proceedings of the IEEE VIS 2013, \notOnCV{Atlanta, GA, }2013\notOnCV{ October 13-18}.
+- Mat Kelly, Justin F. Brunelle, Michele C. Weigle and Michael L. Nelson. "On the Change in Archivability of Websites Over Time," In Proceedings of the International Conference on Theory and Practice of Digital Libraries (TPDL), pp. 35-47, \notOnCV{Valletta, Malta, September }2013.
+- Mat Kelly and Michele C. Weigle, "WARCreate - Create Wayback-Consumable WARC Files from Any Webpage," In Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL),  pp. 437-438, \notOnCV{Washington, DC, June }2012.
+- Thad Chee, Matthew Kelly, Louis Nguyen, Patrick Minnis, Rabindra Palikonda, Douglas A. Spagenberg, J. Kirk Ayers. Access to Real-time and Historic Satellite Products from a Mobile Application. Poster Presented at$:$ American Geophysical Union Fall Meeting, 2011\notOnCV{ December 5-9; San Francisco, CA}.
+
+conferencePresentations:
+- Mat Kelly, "Exploring Aggregation of Personal, Private, and Institutional Web Archives," Presented at Archives Unleashed 2.0$:$ Web Archive Datathon, 2016\notOnCV{June; Washington, DC}.
+- Mat Kelly, "InterPlanetary Wayback$:$ The Permanent Web Archive," Presented at the Web Archiving and Digital Libraries Workshop (WADL), 2016\notOnCV{June; Newark, NJ}.
+- Mat Kelly, "A Framework for Aggregating Private and Public Web Archives," at the ACM/IEEE Joint Conference on Digital Libraries (JCDL), Doctoral Consortium, \notOnCV{June }2015\notOnCV{; Knoxville, TN}.
+- Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "Visualizing Digital Collections of Web Archives," Web Archiving Collaboration$:$ New Tools and Models Workshop, 2015\notOnCV{ June 4; New York City, NY}.
+- Mat Kelly, "Facilitation of the A Posteriori Replication of Web Published Satellite Imagery", Virginia Space Grant Consortium 2015 Student Research Conference, 2015\notOnCV{ April 17; Hampton, VA}.
+- Mat Kelly, Michael L. Nelson, and Michele C. Weigle. "Efficient Thumbnail Summarization for Web Archives," Digital Preservation 2014, 2014\notOnCV{ July 22; Washington, DC}.
+- Mat Kelly. "Archive What I See Now," Archive-It Partner Meeting, \notOnCV{Salt Lake City, UT, }2013\notOnCV{ November 12}. 
+- Michael L. Nelson, Scott G. Ainsworth, Justin F. Brunelle, Mat Kelly, Hany SalahEldeen and Michele C. Weigle. "Who Will Archive the Archives? Thoughts About the Future of Web Archiving," Wolfram Data Summit 2013, \notOnCV{Washington, DC, }2013\notOnCV{ September 5-6}.
+- Mat Kelly, Michael L. Nelson and Michele C. Weigle. "WARCreate and WAIL$:$ WARC, Wayback and Heritrix Made Easy," Digital Preservation 2013, Workshops and Sessions$:$ Web Archiving, 2013\notOnCV{ July 24; Alexandria, VA}.
+- Mat Kelly, Michele C. Weigle and Michael L. Nelson. "Making Enterprise-Level Archive Tools Accessible for Personal Web Archiving," Personal Digital Archiving 2013, Poster Session, 2013\notOnCV{ February 21; College Park, MD}.
+- Mat Kelly, Michele C. Weigle and Michael L. Nelson. "WARCreate - Create Wayback-Consumable WARC Files from Any Webpage," Digital Preservation 2012, Tools Demo Session$:$ Web Archiving, 2012\notOnCV{ July 25; Washington, DC}.
+- Mat Kelly, Syed R. Rizvi, Liang Chen, Chinmay Lokesh, Stephan Olariu and Michele C. Weigle. ALERT$:$ A Next-generation Emergency Response System for First Responders using Retasking of Wireless Sensor Networks, 13th Annual Tidewater Student Research Poster Session, 2011\notOnCV{ November 18; Newport News, VA}.
+- Mat Kelly, Michele C. Weigle and Michael L. Nelson. Archiving Your Facebook Pages Using Archive Facebook. NDIIPP/NDSA Partners Meeting Special Interest Session$:$ Web Archiving,  2011\notOnCV{ July 20; Washington, DC}.
+
+
+awards:
+- Best Poster Award, ACM/IEEE JCDL 2015.
+- Best Student Paper Award, ACM/IEEE JCDL 2014.
+- NASA Virginia Space Grant Consortium Graduate Fellow, \notOnCV{August }2014.
+- Future Steward Innovation Award Recipient, National Digital Stewardship Alliance (NDSA) / Library of Congress, \notOnCV{July }2012.
+- Featured Graduate Student, Old Dominion University Department of Computer Science, \notOnCV{June }2012.
+
+
+# Settings
+mainfont: Adobe Garamond Pro
+fontsize: 10pt
+lang: English
+geometry: letterpaper, left=35mm, right=35mm, top=17mm, bottom=17mm
+---
