@@ -69,10 +69,8 @@ experience:
 
 
 journalPublications:
-- Mat Kelly, "A Framework for Aggregating Private and Public Web Archives," Bulletin of the IEEE Technical Committee on Digital Libraries (TCDL), 11(3), \notOnCV{December}2015.
 - Justin F. Brunelle, Mat Kelly, Michele C. Weigle and Michael L. Nelson, "The Impact of JavaScript on Archivability," International Journal of Digital Libraries (IJDL), 17(2), pp. 95-117, \notOnCV{January }2015.
 - Justin F. Brunelle, Mat Kelly, Hany SalahEldeen, Michele C. Weigle and Michael L. Nelson, "Not All Mementos Are Created Equal$:$ Measuring the Impact of Missing Resources," International Journal of Digital Libraries (IJDL), 16(3), pp. 283-301, \notOnCV{May }2015.
-- Mat Kelly, Justin F. Brunelle, Michele C. Weigle and Michael L. Nelson. "A Method for Identifying Personalized Representations in the Archives," D-Lib Magazine, 19(11/12), 2013.
 
 conferencePublications:
 - Mat Kelly, Sawood Alam, Michael L. Nelson, and Michele C. Weigle, "InterPlanetary Wayback$:$ Peer-To-Peer Permanence of Web Archives," In Proceedings of the International Conference on Theory and Practice of Digital Libraries (TPDL), pp. 411-416, \notOnCV{September }2016.
@@ -102,11 +100,17 @@ conferencePresentations:
 - Mat Kelly, Syed R. Rizvi, Liang Chen, Chinmay Lokesh, Stephan Olariu and Michele C. Weigle. ALERT$:$ A Next-generation Emergency Response System for First Responders using Retasking of Wireless Sensor Networks, 13th Annual Tidewater Student Research Poster Session, 2011\notOnCV{ November 18; Newport News, VA}.
 - Mat Kelly, Michele C. Weigle and Michael L. Nelson. Archiving Your Facebook Pages Using Archive Facebook. NDIIPP/NDSA Partners Meeting Special Interest Session$:$ Web Archiving,  2011\notOnCV{ July 20; Washington, DC}.
 
+articles:
+- Mat Kelly, "A Framework for Aggregating Private and Public Web Archives," Bulletin of the IEEE Technical Committee on Digital Libraries (TCDL), 11(3), \notOnCV{December}2015.
+- Mat Kelly, Justin F. Brunelle, Michele C. Weigle and Michael L. Nelson. "A Method for Identifying Personalized Representations in the Archives," D-Lib Magazine, 19(11/12), 2013.
+- David Helman, Matthew Kelly, Martin Guttmann, Bill Carter, Enrique Castro-Leon, Thomas Kellerer, Dror Shenkar. "Preserving Performance While Saving Power Using Intel Intelligent Power Node Manager and Intel Data Center Manger", \notOnCV{December }2009.
 
 awards:
+- Donald W. Reynolds Journalism Institute Scholar, 2016.
 - Best Poster Award, ACM/IEEE JCDL 2015.
 - Best Student Paper Award, ACM/IEEE JCDL 2014.
 - NASA Virginia Space Grant Consortium Graduate Fellow, \notOnCV{August }2014.
+- "Acknowledged Contributor, RFC7089: HTTP Framework for Time-Based Access to Resource States -- Memento, 2013."
 - Future Steward Innovation Award Recipient, National Digital Stewardship Alliance (NDSA) / Library of Congress, \notOnCV{July }2012.
 - Featured Graduate Student, Old Dominion University Department of Computer Science, \notOnCV{June }2012.
 
