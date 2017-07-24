@@ -69,11 +69,11 @@ experience:
 
 
 journalPublications:
-- Justin F. Brunelle, Mat Kelly, Michele C. Weigle and Michael L. Nelson, "The Impact of JavaScript on Archivability," International Journal of Digital Libraries (IJDL), 17(2), pp. 95-117, \notOnCV{January }2015.
+- Justin F. Brunelle, Mat Kelly, Michele C. Weigle, and Michael L. Nelson, "The Impact of JavaScript on Archivability," International Journal of Digital Libraries (IJDL), 17(2), pp. 95-117, \notOnCV{January }2015.
 - Justin F. Brunelle, Mat Kelly, Hany SalahEldeen, Michele C. Weigle and Michael L. Nelson, "Not All Mementos Are Created Equal$:$ Measuring the Impact of Missing Resources," International Journal of Digital Libraries (IJDL), 16(3), pp. 283-301, \notOnCV{May }2015.
 
 conferencePublications:
-- Mat Kelly, Lulwah M. Alkwai, Sawood Alam, Michael L. Nelson, Michele C. Weigle and Herbert Van de Sompel, "Impact of URI Canonicalization on Memento Count," To Appear In Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL), Accepted for Publication, \notOnCV{June}2017.
+- Mat Kelly, Lulwah M. Alkwai, Sawood Alam, Michael L. Nelson, Michele C. Weigle, and Herbert Van de Sompel, "Impact of URI Canonicalization on Memento Count," To Appear In Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL), Accepted for Publication, \notOnCV{June}2017.
 - Sawood Alam, Mat Kelly, Michele C. Weigle, and Michael L. Nelson, "Client-side Reconstruction of Composite Mementos Using ServiceWorker," To Appear In Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL), Accepted for Publication, \notOnCV{June}2017.
 - John A. Berlin, Mat Kelly, Michele C. Weigle, and Michael L. Nelson, "WAIL$:$ Collection-Based Personal Web Archiving," To Appear In Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL), Accepted for Publication, \notOnCV{June}2017.
 - Mat Kelly, Sawood Alam, Michael L. Nelson, and Michele C. Weigle, "InterPlanetary Wayback$:$ Peer-To-Peer Permanence of Web Archives," In Proceedings of the International Conference on Theory and Practice of Digital Libraries (TPDL), pp. 411-416, \notOnCV{September }2016.
@@ -83,8 +83,8 @@ conferencePublications:
 - Justin F. Brunelle, Mat Kelly, Hany SalahEldeen, Michele C. Weigle, and Michael L. Nelson, "Not All Mementos Are Created Equal$:$ Measuring The Impact Of Missing Resources," In Proceedings of the IEEE/ACM Joint Conference on Digital Libraries (JCDL), pp. 321-330, \notOnCV{September }2014\notOnCV{, Best Student Paper Award}.
 - Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "The Archival Acid Test$:$ Evaluating Archive Performance on Advanced HTML and JavaScript," In Proceedings of the IEEE/ACM Joint Conference on Digital Libraries (JCDL), pp. 25-28, \notOnCV{London, England, September }2014.
 - Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "Mink$:$ Integrating the Live and Archived Web Viewing Experience Using Web Browsers and Memento," In Proceedings of the IEEE/ACM Joint Conference on Digital Libraries (JCDL), pp. 469-470, \notOnCV{London, England, September }2014.
-- Mat Kelly, Michael L. Nelson and Michele C. Weigle. "Graph-Based Navigation of a Box Office Prediction System," In Proceedings of the IEEE VIS 2013, \notOnCV{Atlanta, GA, }2013\notOnCV{ October 13-18}.
-- Mat Kelly, Justin F. Brunelle, Michele C. Weigle and Michael L. Nelson. "On the Change in Archivability of Websites Over Time," In Proceedings of the International Conference on Theory and Practice of Digital Libraries (TPDL), pp. 35-47, \notOnCV{Valletta, Malta, September }2013.
+- Mat Kelly, Michael L. Nelson, and Michele C. Weigle. "Graph-Based Navigation of a Box Office Prediction System," In Proceedings of the IEEE VIS 2013, \notOnCV{Atlanta, GA, }2013\notOnCV{ October 13-18}.
+- Mat Kelly, Justin F. Brunelle, Michele C. Weigle, and Michael L. Nelson. "On the Change in Archivability of Websites Over Time," In Proceedings of the International Conference on Theory and Practice of Digital Libraries (TPDL), pp. 35-47, \notOnCV{Valletta, Malta, September }2013.
 - Mat Kelly and Michele C. Weigle, "WARCreate - Create Wayback-Consumable WARC Files from Any Webpage," In Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL),  pp. 437-438, \notOnCV{Washington, DC, June }2012.
 - Thad Chee, Matthew Kelly, Louis Nguyen, Patrick Minnis, Rabindra Palikonda, Douglas A. Spagenberg, J. Kirk Ayers. Access to Real-time and Historic Satellite Products from a Mobile Application. Poster Presented at$:$ American Geophysical Union Fall Meeting, 2011\notOnCV{ December 5-9; San Francisco, CA}.
 
@@ -112,7 +112,7 @@ articles:
 - Sawood Alam, Mat Kelly, Michele C. Weigle, and Michael L. Nelson, "InterPlanetary Wayback$:$ The Permanent Web Archive," Bulletin of the IEEE Technical Committee on Digital Libraries (TCDL), 13(1), \notOnCV{April}2017.
 - Mat Kelly, Lulwah M. Alkwai, Michael L. Nelson, Michele C. Weigle, and Herbert Van de Sompel, "Impact of URI Canonicalization on Memento Count," Technical Report arXiv:1703.03302, \notOnCV{March}2017.
 - Mat Kelly, "A Framework for Aggregating Private and Public Web Archives," Bulletin of the IEEE Technical Committee on Digital Libraries (TCDL), 11(3), \notOnCV{December}2015.
-- Mat Kelly, Justin F. Brunelle, Michele C. Weigle and Michael L. Nelson. "A Method for Identifying Personalized Representations in the Archives," D-Lib Magazine, 19(11/12), 2013.
+- Mat Kelly, Justin F. Brunelle, Michele C. Weiglem and Michael L. Nelson. "A Method for Identifying Personalized Representations in the Archives," D-Lib Magazine, 19(11/12), 2013.
 - David Helman, Matthew Kelly, Martin Guttmann, Bill Carter, Enrique Castro-Leon, Thomas Kellerer, Dror Shenkar. "Preserving Performance While Saving Power Using Intel Intelligent Power Node Manager and Intel Data Center Manger", \notOnCV{December }2009.
 
 awards:
