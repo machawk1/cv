@@ -69,8 +69,8 @@ experience:
 
 
 journalPublications:
-- Justin F. Brunelle, Mat Kelly, Michele C. Weigle, and Michael L. Nelson, "The Impact of JavaScript on Archivability," International Journal of Digital Libraries (IJDL), 17(2), pp. 95-117, \notOnCV{January }2015.
-- Justin F. Brunelle, Mat Kelly, Hany SalahEldeen, Michele C. Weigle and Michael L. Nelson, "Not All Mementos Are Created Equal$:$ Measuring the Impact of Missing Resources," International Journal of Digital Libraries (IJDL), 16(3), pp. 283-301, \notOnCV{May }2015.
+- Justin F. Brunelle, Mat Kelly, Michele C. Weigle, and Michael L. Nelson, "The Impact of JavaScript on Archivability," International Journal on Digital Libraries (IJDL), 17(2), pp. 95-117, \notOnCV{January }2015.
+- Justin F. Brunelle, Mat Kelly, Hany SalahEldeen, Michele C. Weigle and Michael L. Nelson, "Not All Mementos Are Created Equal$:$ Measuring the Impact of Missing Resources," International Journal on Digital Libraries (IJDL), 16(3), pp. 283-301, \notOnCV{May }2015.
 
 conferencePublications:
 - Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "A Framework for Aggregating Private and Public Web Archives," Accepted for Publication In Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL), \notOnCV{June}2018.
@@ -92,6 +92,8 @@ conferencePublications:
 - Thad Chee, Matthew Kelly, Louis Nguyen, Patrick Minnis, Rabindra Palikonda, Douglas A. Spagenberg, J. Kirk Ayers. Access to Real-time and Historic Satellite Products from a Mobile Application. Poster Presented at$:$ American Geophysical Union Fall Meeting, 2011\notOnCV{ December 5-9; San Francisco, CA}.
 
 conferencePresentations:
+- Mat Kelly, Sawood Alam, Michael L. Nelson, and Michele C. Weigle, "Client-Assisted Memento Aggregation Using the Prefer Header," To Be Presented at the Web Archiving and Digital Libraries Workshop (WADL), 2018\notOnCV{June, Fort Worth, Texas}.
+- Sawood Alam, Mat Kelly, Michele C. Weigle, and Michael L. Nelson, "A Survey of Archival Replay Banners," To Be Presented at the Web Archiving and Digital Libraries Workshop (WADL), 2018\notOnCV{June, Fort Worth, Texas}.
 - Mat Kelly, Lulwah M. Alkwai, Sawood Alam, Michael L. Nelson, Michele C. Weigle, and Herbert Van de Sompel, "Impact of URI Canonicalization on Memento Count," Presented at the Web Archiving and Digital Libraries Workshop (WADL), 2017\notOnCV{June; Toronto, Canada}.
 - Sawood Alam, Mat Kelly, Michele C. Weigle, and Michael L. Nelson, "Avoiding Zombies in Archival Replay Using ServiceWorker," Presented at the Web Archiving and Digital Libraries Workshop (WADL), 2017\notOnCV{June; Toronto, Canada}.
 - Michele C. Weigle, Michael L. Nelson, Mat Kelly, and John Berlin, "Archive What I See Now - Personal Web Archiving with WARCS," Presented at the International Internet Preservation Consortium (IIPC) Web Archiving Conference (WAC), 2017\notOnCV{June; London, England}.
@@ -127,6 +129,12 @@ awards:
 - "Acknowledged Contributor, RFC7089: HTTP Framework for Time-Based Access to Resource States -- Memento, 2013."
 - Future Steward Innovation Award Recipient, National Digital Stewardship Alliance (NDSA) / Library of Congress, \notOnCV{July }2012.
 - Featured Graduate Student, Old Dominion University Department of Computer Science, \notOnCV{June }2012.
+
+software:
+- InterPlanetary Wayback (ipwb) - Archival index and replay suite to integrate WARC files and the InterPlanetary File System (ipfs) https://github.com/oduwsdl/ipwb (131 stars on GitHub)
+- Web Archiving Integration Layer (WAIL) - Desktop application to allow non-technical users to easily leverage institutional grade web archiving tools https://github.com/machawk1/wail (75 stars on GitHub)
+- WARCreate - Google Chrome extension to allow users to create web archive (WARC) files from any web page. https://github.com/machawk1/warcreate (40 stars on GitHub)
+- Mink - Google Chrome extension to integrate the live and archive web while a user browses and encourage one-click submission to web archives. https://github.com/machawk1/mink (10 stars on GitHub)
 
 service:
 - Organizing Committee, Publicity Chair, Joint Conference on Digital Libraries, 2018.
