@@ -179,7 +179,18 @@ Through my academic career I have both created and publicly released open source
 $if(software)$
 \begin{enumerate}
 $for(software)$
-\item $software$
+\item \textit{$software.name$}  ($software.stars$ stars on GitHub)\\$software.description$\\$software.url$
+$endfor$
+\end{enumerate}
+$endif$
+
+\section*{Hackathons}
+Attending web archiving related hackathons has provided an opportunity to rapidly code and collaborate with participants from other research institutions.
+
+$if(hackathons)$
+\begin{enumerate}
+$for(hackathons)$
+\item $hackathons.hwhat$\\$hackathons.where$, $hackathons.when$\\$hackathons.blag$
 $endfor$
 \end{enumerate}
 $endif$

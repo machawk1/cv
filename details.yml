@@ -131,15 +131,42 @@ awards:
 - Featured Graduate Student, Old Dominion University Department of Computer Science, \notOnCV{June }2012.
 
 software:
-- InterPlanetary Wayback (ipwb) - Archival index and replay suite to integrate WARC files and the InterPlanetary File System (ipfs) https://github.com/oduwsdl/ipwb (131 stars on GitHub)
-- Web Archiving Integration Layer (WAIL) - Desktop application to allow non-technical users to easily leverage institutional grade web archiving tools https://github.com/machawk1/wail (75 stars on GitHub)
-- WARCreate - Google Chrome extension to allow users to create web archive (WARC) files from any web page. https://github.com/machawk1/warcreate (40 stars on GitHub)
-- Mink - Google Chrome extension to integrate the live and archive web while a user browses and encourage one-click submission to web archives. https://github.com/machawk1/mink (10 stars on GitHub)
+- name: InterPlanetary Wayback (ipwb)
+  description: Archival index and replay suite to integrate WARC files and the InterPlanetary File System (ipfs)
+  url: https://github.com/oduwsdl/ipwb
+  stars: 131
+- name: Web Archiving Integration Layer (WAIL)
+  description: Desktop application to allow non-technical users to easily leverage institutional grade web archiving tools
+  url: https://github.com/machawk1/wail
+  stars: 75
+- name: WARCreate
+  description: Google Chrome extension to allow users to create web archive (WARC) files from any web page.
+  url: https://github.com/machawk1/warcreate
+  stars: 40
+- name: Mink
+  description: Google Chrome extension to integrate the live and archive web while a user browses and encourage one-click submission to web archives.
+  url: https://github.com/machawk1/mink
+  stars: 10
+
+hackathons:
+- hwhat: Archives Unleashed 4.0$:$ Web Archive Datathon
+  when: June 2017
+  where: London, UK
+  blag: http://ws-dl.blogspot.com/2017/07/2017-07-19-archives-unleashed-40-web.html
+- hwhat: Archives Unleashed 2.0$:$ Web Archive Hackathon
+  when: June 2016
+  where: Washington, DC 
+  blag: http://ws-dl.blogspot.com/2016/06/2016-06-27-archives-unleashed-20-web.html
+- hwhat: Archives Unleashed Hackathon
+  when: March 2016
+  where: Toronto, Canada 
+  blag: http://ws-dl.blogspot.com/2016/03/2016-03-07-archives-unleashed-web.html
 
 service:
 - Organizing Committee, Publicity Chair, Joint Conference on Digital Libraries, 2018.
 - Reviewer, Joint Conference on Digital Libraries, 2018.
 - Reviewer, Access 2017 Conference, 2017.
+- Subreviewer, Joint Conference on Digital Libraries, 2012.
 
 # Settings
 mainfont: Adobe Garamond Pro
