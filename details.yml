@@ -92,6 +92,7 @@ conferencePublications:
 - Thad Chee, Matthew Kelly, Louis Nguyen, Patrick Minnis, Rabindra Palikonda, Douglas A. Spagenberg, J. Kirk Ayers. Access to Real-time and Historic Satellite Products from a Mobile Application. Poster Presented at$:$ American Geophysical Union Fall Meeting, 2011\notOnCV{ December 5-9; San Francisco, CA}.
 
 conferencePresentations:
+- Sawood Alam, Mat Kelly, Michele C. Weigle, and Michael L. Nelson, "InterPlanetary Wayback$:$ The Next Step Towards Decentralized Web Archiving," Presented at the Decentralized Web Summit, 2018\notOnCV{August, San Francisco, California}.
 - Mat Kelly, Sawood Alam, Michael L. Nelson, and Michele C. Weigle, "Client-Assisted Memento Aggregation Using the Prefer Header," Presented at the Web Archiving and Digital Libraries Workshop (WADL), 2018\notOnCV{June, Fort Worth, Texas}.
 - Sawood Alam, Mat Kelly, Michele C. Weigle, and Michael L. Nelson, "A Survey of Archival Replay Banners," Presented at the Web Archiving and Digital Libraries Workshop (WADL), 2018\notOnCV{June, Fort Worth, Texas}.
 - Mat Kelly, Lulwah M. Alkwai, Sawood Alam, Michael L. Nelson, Michele C. Weigle, and Herbert Van de Sompel, "Impact of URI Canonicalization on Memento Count," Presented at the Web Archiving and Digital Libraries Workshop (WADL), 2017\notOnCV{June; Toronto, Canada}.
@@ -136,11 +137,11 @@ software:
 - name: InterPlanetary Wayback (ipwb)
   description: Archival index and replay suite to integrate WARC files and the InterPlanetary File System (ipfs)
   url: https://github.com/oduwsdl/ipwb
-  stars: 137
+  stars: 150
 - name: Web Archiving Integration Layer (WAIL)
   description: Desktop application to allow non-technical users to easily leverage institutional grade web archiving tools
   url: https://github.com/machawk1/wail
-  stars: 76
+  stars: 83
 - name: WARCreate
   description: Google Chrome extension to allow users to create web archive (WARC) files from any web page.
   url: https://github.com/machawk1/warcreate
@@ -148,7 +149,7 @@ software:
 - name: Mink
   description: Google Chrome extension to integrate the live and archive web while a user browses and encourage one-click submission to web archives.
   url: https://github.com/machawk1/mink
-  stars: 10
+  stars: 13
 
 hackathons:
 - hwhat: Archives Unleashed 4.0$:$ Web Archive Datathon
