@@ -25,6 +25,8 @@
 \renewcommand{\labelenumi}{[\theenumi]}
 
 
+%\renewcommand{\thepage}{Kelly -\arabic{page}}
+
 % LANGUAGE
 %--------------------------------
 % Set the main language
@@ -115,7 +117,7 @@ $if(education)$
 $for(education)$
 \note{$education.year$}\textbf{$education.subject$}$if(education.degree)$, $education.degree$$endif$\\
 \emph{$education.institute$}$if(education.city)$, $education.city$$endif$.
-$if(education.thesis)$\\Thesis: $education.thesis$$endif$\\[.2cm]
+$if(education.thesis)$\\Thesis: $education.thesis$$endif$$if(education.dissertation)$\\Dissertation: $education.dissertation$$endif$\\[.2cm]
 $endfor$
 $endif$
 

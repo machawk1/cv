@@ -16,9 +16,10 @@ skills:
 
 education:
 - year: 2012--present
-  subject: Doctor of Philosophy in Computer Science
+  subject: Doctor of Philosophy in Computer Science (expected 2019)
   institute: Old Dominion University
   city: Norfolk, VA
+  dissertation: A Framework for Aggregating Private and Public Web Archives
 - year: 2010--2012
   subject: Master of Science in Computer Science
   institute: Old Dominion University
@@ -137,11 +138,11 @@ software:
 - name: InterPlanetary Wayback (ipwb)
   description: Archival index and replay suite to integrate WARC files and the InterPlanetary File System (ipfs)
   url: https://github.com/oduwsdl/ipwb
-  stars: 159
+  stars: 168
 - name: Web Archiving Integration Layer (WAIL)
   description: Desktop application to allow non-technical users to easily leverage institutional grade web archiving tools
   url: https://github.com/machawk1/wail
-  stars: 85
+  stars: 86
 - name: WARCreate
   description: Google Chrome extension to allow users to create web archive (WARC) files from any web page.
   url: https://github.com/machawk1/warcreate
