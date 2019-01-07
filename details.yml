@@ -119,7 +119,7 @@ articles:
 - Sawood Alam, Mat Kelly, Michele C. Weigle, and Michael L. Nelson, "InterPlanetary Wayback$:$ The Permanent Web Archive," Bulletin of the IEEE Technical Committee on Digital Libraries (TCDL), 13(1), \notOnCV{April}2017.
 - Mat Kelly, Lulwah M. Alkwai, Michael L. Nelson, Michele C. Weigle, and Herbert Van de Sompel, "Impact of URI Canonicalization on Memento Count," Technical Report arXiv:1703.03302, \notOnCV{March}2017.
 - Mat Kelly, "A Framework for Aggregating Private and Public Web Archives," Bulletin of the IEEE Technical Committee on Digital Libraries (TCDL), 11(3), \notOnCV{December}2015.
-- Mat Kelly, Justin F. Brunelle, Michele C. Weiglem and Michael L. Nelson. "A Method for Identifying Personalized Representations in the Archives," D-Lib Magazine, 19(11/12), 2013.
+- Mat Kelly, Justin F. Brunelle, Michele C. Weigle, and Michael L. Nelson. "A Method for Identifying Personalized Representations in the Archives," D-Lib Magazine, 19(11/12), 2013.
 - David Helman, Matthew Kelly, Martin Guttmann, Bill Carter, Enrique Castro-Leon, Thomas Kellerer, Dror Shenkar. "Preserving Performance While Saving Power Using Intel Intelligent Power Node Manager and Intel Data Center Manger", \notOnCV{December }2009.
 
 awards:
@@ -138,19 +138,19 @@ software:
 - name: InterPlanetary Wayback (ipwb)
   description: Archival index and replay suite to integrate WARC files and the InterPlanetary File System (ipfs)
   url: https://github.com/oduwsdl/ipwb
-  stars: 168
+  stars: 189
 - name: Web Archiving Integration Layer (WAIL)
   description: Desktop application to allow non-technical users to easily leverage institutional grade web archiving tools
   url: https://github.com/machawk1/wail
-  stars: 87
+  stars: 97
 - name: WARCreate
   description: Google Chrome extension to allow users to create web archive (WARC) files from any web page.
   url: https://github.com/machawk1/warcreate
-  stars: 40
+  stars: 43
 - name: Mink
   description: Google Chrome extension to integrate the live and archive web while a user browses and encourage one-click submission to web archives.
   url: https://github.com/machawk1/mink
-  stars: 16
+  stars: 18
 
 hackathons:
 - hwhat: Archives Unleashed 4.0$:$ Web Archive Datathon
@@ -167,6 +167,7 @@ hackathons:
   blag: http://ws-dl.blogspot.com/2016/03/2016-03-07-archives-unleashed-web.html
 
 service:
+- Reviewer, International Journal on Digital Libraries, 2018.
 - Organizing Committee, Publicity Chair, Joint Conference on Digital Libraries, 2018.
 - Reviewer, Joint Conference on Digital Libraries, 2018.
 - Reviewer, Access 2017 Conference, 2017.
