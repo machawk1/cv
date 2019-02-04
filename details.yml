@@ -138,15 +138,15 @@ software:
 - name: InterPlanetary Wayback (ipwb)
   description: Archival index and replay suite to integrate WARC files and the InterPlanetary File System (ipfs)
   url: https://github.com/oduwsdl/ipwb
-  stars: 189
+  stars: 193
 - name: Web Archiving Integration Layer (WAIL)
   description: Desktop application to allow non-technical users to easily leverage institutional grade web archiving tools
   url: https://github.com/machawk1/wail
-  stars: 97
+  stars: 99
 - name: WARCreate
   description: Google Chrome extension to allow users to create web archive (WARC) files from any web page.
   url: https://github.com/machawk1/warcreate
-  stars: 43
+  stars: 44
 - name: Mink
   description: Google Chrome extension to integrate the live and archive web while a user browses and encourage one-click submission to web archives.
   url: https://github.com/machawk1/mink
