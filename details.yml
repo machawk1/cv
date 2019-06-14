@@ -19,7 +19,7 @@ education:
   subject: Doctor of Philosophy in Computer Science (expected 2019)
   institute: Old Dominion University
   city: Norfolk, VA
-  dissertation: A Framework for Aggregating Private and Public Web Archives
+  dissertation: Aggregating Private and Public Web Archives Using the Mementity Framework
 - year: 2010--2012
   subject: Master of Science in Computer Science
   institute: Old Dominion University
@@ -138,19 +138,19 @@ software:
 - name: InterPlanetary Wayback (ipwb)
   description: Archival index and replay suite to integrate WARC files and the InterPlanetary File System (ipfs)
   url: https://github.com/oduwsdl/ipwb
-  stars: 193
+  stars: 218
 - name: Web Archiving Integration Layer (WAIL)
   description: Desktop application to allow non-technical users to easily leverage institutional grade web archiving tools
   url: https://github.com/machawk1/wail
-  stars: 99
+  stars: 122
 - name: WARCreate
   description: Google Chrome extension to allow users to create web archive (WARC) files from any web page.
   url: https://github.com/machawk1/warcreate
-  stars: 44
+  stars: 64
 - name: Mink
   description: Google Chrome extension to integrate the live and archive web while a user browses and encourage one-click submission to web archives.
   url: https://github.com/machawk1/mink
-  stars: 18
+  stars: 21
 
 hackathons:
 - hwhat: Archives Unleashed 4.0$:$ Web Archive Datathon
@@ -168,10 +168,9 @@ hackathons:
 
 service:
 - Reviewer, International Journal on Digital Libraries, 2018.
-- Organizing Committee, Publicity Chair, Joint Conference on Digital Libraries, 2018.
-- Reviewer, Joint Conference on Digital Libraries, 2018.
+- Organizing Committee, Publicity Chair, Joint Conference on Digital Libraries, 2018-2019.
+- Reviewer, Joint Conference on Digital Libraries, 2012, 2018-2019.
 - Reviewer, Access 2017 Conference, 2017.
-- Subreviewer, Joint Conference on Digital Libraries, 2012.
 
 # Settings
 mainfont: Adobe Garamond Pro
