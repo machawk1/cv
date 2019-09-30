@@ -2,12 +2,11 @@
 # Personal details
 name: Mat Kelly
 address:
-- Engineering and Computational Sciences Building
-- Old Dominion University
-- 4700 Elkhorn Avenue Suite 3102
-- Norfolk, Virginia 23529
-email: mkelly@cs.odu.edu
-urls: www.cs.odu.edu/~mkelly
+- Drexel University
+- 3675 Market Street \#1183
+- Philadelphia, Pennsylvania 19104
+email: me@matkelly.com
+urls: matkelly.com
 
 # Sections
 
@@ -15,8 +14,8 @@ skills:
 - Digital Preservation, Personal Web Archiving, Information Visualization.
 
 education:
-- year: 2012--present
-  subject: Doctor of Philosophy in Computer Science (expected 2019)
+- year: 2012--2019
+  subject: Doctor of Philosophy in Computer Science
   institute: Old Dominion University
   city: Norfolk, VA
   dissertation: Aggregating Private and Public Web Archives Using the Mementity Framework
@@ -31,15 +30,19 @@ education:
   city: Gainesville, FL
 
 experience:
+- years: \notOnCV{Sept--}2019
+  employer: Drexel University, College of Computing & Informatics
+  job: Assistant Professor, Tenure Track
+  city: Philadelphia, PA
 - years: \notOnCV{Jan 2015--May }2015
   employer: Old Dominion University
   job: Instructor, CS418 - Web Programming
   city: Norfolk, VA
-- years: \notOnCV{Jan }2011--present
+- years: \notOnCV{Jan }2011--2019
   employer: Old Dominion University Department of Computer Science
   job: Graduate Research Assistant
   city: Norfolk, VA
-- years: \notOnCV{June }2011--present
+- years: \notOnCV{June }2011--2019
   employer: NASA Langley Research Center
   job: Mobile Applications Developer
   city: Hampton, VA
@@ -138,19 +141,19 @@ software:
 - name: InterPlanetary Wayback (ipwb)
   description: Archival index and replay suite to integrate WARC files and the InterPlanetary File System (ipfs)
   url: https://github.com/oduwsdl/ipwb
-  stars: 218
+  stars: 237
 - name: Web Archiving Integration Layer (WAIL)
   description: Desktop application to allow non-technical users to easily leverage institutional grade web archiving tools
   url: https://github.com/machawk1/wail
-  stars: 122
+  stars: 132
 - name: WARCreate
   description: Google Chrome extension to allow users to create web archive (WARC) files from any web page.
   url: https://github.com/machawk1/warcreate
-  stars: 64
+  stars: 68
 - name: Mink
   description: Google Chrome extension to integrate the live and archive web while a user browses and encourage one-click submission to web archives.
   url: https://github.com/machawk1/mink
-  stars: 21
+  stars: 22
 
 hackathons:
 - hwhat: Archives Unleashed 4.0$:$ Web Archive Datathon
