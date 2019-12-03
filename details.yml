@@ -30,7 +30,7 @@ education:
   city: Gainesville, FL
 
 experience:
-- years: \notOnCV{Sept--}2019
+- years: \notOnCV{Sept--}2019--present
   employer: Drexel University, College of Computing & Informatics
   job: Assistant Professor, Tenure Track
   city: Philadelphia, PA
@@ -141,19 +141,19 @@ software:
 - name: InterPlanetary Wayback (ipwb)
   description: Archival index and replay suite to integrate WARC files and the InterPlanetary File System (ipfs)
   url: https://github.com/oduwsdl/ipwb
-  stars: 237
+  stars: 244
 - name: Web Archiving Integration Layer (WAIL)
   description: Desktop application to allow non-technical users to easily leverage institutional grade web archiving tools
   url: https://github.com/machawk1/wail
-  stars: 132
+  stars: 139
 - name: WARCreate
   description: Google Chrome extension to allow users to create web archive (WARC) files from any web page.
   url: https://github.com/machawk1/warcreate
-  stars: 68
+  stars: 69
 - name: Mink
   description: Google Chrome extension to integrate the live and archive web while a user browses and encourage one-click submission to web archives.
   url: https://github.com/machawk1/mink
-  stars: 22
+  stars: 23
 
 hackathons:
 - hwhat: Archives Unleashed 4.0$:$ Web Archive Datathon
@@ -170,6 +170,7 @@ hackathons:
   blag: http://ws-dl.blogspot.com/2016/03/2016-03-07-archives-unleashed-web.html
 
 service:
+- Reviewer, European Conference on Information Retrieval, 2020.
 - Reviewer, International Journal on Digital Libraries, 2018.
 - Organizing Committee, Publicity Chair, Joint Conference on Digital Libraries, 2018-2019.
 - Reviewer, Joint Conference on Digital Libraries, 2012, 2018-2019.
@@ -178,6 +179,6 @@ service:
 # Settings
 mainfont: Adobe Garamond Pro
 fontsize: 10pt
-lang: English
+lang: en-US
 geometry: letterpaper, left=35mm, right=35mm, top=17mm, bottom=17mm
 ---
