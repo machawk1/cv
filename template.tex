@@ -166,6 +166,15 @@ $endfor$
 \end{enumerate}
 $endif$
 
+\section*{Teaching}
+$if(teaching)$
+\begin{enumerate}
+$for(teaching)$
+\item $teaching$
+$endfor$
+\end{enumerate}
+$endif$
+
 \section*{Awards and Recognition}
 $if(awards)$
 \begin{enumerate}
@@ -186,16 +195,16 @@ $endfor$
 \end{enumerate}
 $endif$
 
-\section*{Hackathons}
-Attending web archiving related hackathons has provided an opportunity to rapidly code and collaborate with participants from other research institutions.
-
-$if(hackathons)$
-\begin{enumerate}
-$for(hackathons)$
-\item $hackathons.hwhat$\\$hackathons.where$, $hackathons.when$\\$hackathons.blag$
-$endfor$
-\end{enumerate}
-$endif$
+%\section*{Hackathons}
+%Attending web archiving related hackathons has provided an opportunity to rapidly code and collaborate with participants from other research institutions.
+%
+%$if(hackathons)$
+%\begin{enumerate}
+%$for(hackathons)$
+%\item $hackathons.hwhat$\\$hackathons.where$, $hackathons.when$\\$hackathons.blag$
+%$endfor$
+%\end{enumerate}
+%$endif$
 
 \section*{Service}
 $if(service)$

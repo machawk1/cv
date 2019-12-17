@@ -125,6 +125,10 @@ articles:
 - Mat Kelly, Justin F. Brunelle, Michele C. Weigle, and Michael L. Nelson. "A Method for Identifying Personalized Representations in the Archives," D-Lib Magazine, 19(11/12), 2013.
 - David Helman, Matthew Kelly, Martin Guttmann, Bill Carter, Enrique Castro-Leon, Thomas Kellerer, Dror Shenkar. "Preserving Performance While Saving Power Using Intel Intelligent Power Node Manager and Intel Data Center Manger", \notOnCV{December }2009.
 
+teaching:
+- INFO600 - Web Systems and Architecture, Fall 2019, Drexel University
+- CS418 - Web Programming, Spring 2015, Old Dominion University
+
 awards:
 - Best Paper Award Finalist, ACM/IEEE JCDL 2018.
 - Best Poster Award, ACM/IEEE JCDL 2018.
@@ -141,7 +145,7 @@ software:
 - name: InterPlanetary Wayback (ipwb)
   description: Archival index and replay suite to integrate WARC files and the InterPlanetary File System (ipfs)
   url: https://github.com/oduwsdl/ipwb
-  stars: 244
+  stars: 247
 - name: Web Archiving Integration Layer (WAIL)
   description: Desktop application to allow non-technical users to easily leverage institutional grade web archiving tools
   url: https://github.com/machawk1/wail
@@ -155,19 +159,19 @@ software:
   url: https://github.com/machawk1/mink
   stars: 23
 
-hackathons:
-- hwhat: Archives Unleashed 4.0$:$ Web Archive Datathon
-  when: June 2017
-  where: London, UK
-  blag: http://ws-dl.blogspot.com/2017/07/2017-07-19-archives-unleashed-40-web.html
-- hwhat: Archives Unleashed 2.0$:$ Web Archive Hackathon
-  when: June 2016
-  where: Washington, DC 
-  blag: http://ws-dl.blogspot.com/2016/06/2016-06-27-archives-unleashed-20-web.html
-- hwhat: Archives Unleashed Hackathon
-  when: March 2016
-  where: Toronto, Canada 
-  blag: http://ws-dl.blogspot.com/2016/03/2016-03-07-archives-unleashed-web.html
+#hackathons:
+#- hwhat: Archives Unleashed 4.0$:$ Web Archive Datathon
+#  when: June 2017
+#  where: London, UK
+#  blag: http://ws-dl.blogspot.com/2017/07/2017-07-19-archives-unleashed-40-web.html
+#- hwhat: Archives Unleashed 2.0$:$ Web Archive Hackathon
+#  when: June 2016
+#  where: Washington, DC 
+#  blag: http://ws-dl.blogspot.com/2016/06/2016-06-27-archives-unleashed-20-web.html
+#- hwhat: Archives Unleashed Hackathon
+#  when: March 2016
+#  where: Toronto, Canada 
+# blag: http://ws-dl.blogspot.com/2016/03/2016-03-07-archives-unleashed-web.html
 
 service:
 - Reviewer, European Conference on Information Retrieval, 2020.
