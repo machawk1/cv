@@ -5,6 +5,7 @@
 
 \newcommand{\notOnCV}[1] {}
 
+
 % LAYOUT
 %--------------------------------
 % Margins
@@ -32,6 +33,7 @@
 % Set the main language
 $if(lang)$
 \usepackage{polyglossia}
+\usepackage{etaremune}
 \setmainlanguage{$lang$}
 $endif$
 
@@ -68,8 +70,8 @@ $endif$
 \hypersetup
 {
   pdfauthor={$name$},
-  pdfsubject={$name$'s CV},
-  pdftitle={$name$'s CV},
+  pdfsubject={$name$'s Curriculum Vitae (CV)},
+  pdftitle={$name$'s Curriculum Vitae (CV)},
   colorlinks, breaklinks, xetex, bookmarks,
   filecolor=black,
   urlcolor=[rgb]{0,0,1},%{0.117,0.682,0.858},
@@ -78,6 +80,12 @@ $endif$
   citecolor=[rgb]{0,0,1}%{0.117,0.682,0.858},
 }
 
+% For customizing the reverse enumeration
+\usepackage{etaremune}
+\usepackage{enumitem}
+\newcommand\harabic[1]{#1}
+\renewcommand*{\labelenumi}{[\labelprefix\protect\harabic{\theenumi}]}
+\def\labelprefix{}
 % DOCUMENT
 %--------------------------------
 \begin{document}
@@ -132,38 +140,46 @@ $endfor$
 \section*{Publications}
 \subsection*{Journal Publications}
 $if(journalPublications)$
-\begin{enumerate}
+{\def\labelprefix{J}%
+\begin{etaremune}
 $for(journalPublications)$
 \item $journalPublications$
 $endfor$
-\end{enumerate}
+\end{etaremune}
+}
 $endif$
 
 \subsection*{Conference Publications (Peer-Reviewed)}
 $if(conferencePublications)$
-\begin{enumerate}
+{\def\labelprefix{C}%
+\begin{etaremune}
 $for(conferencePublications)$
 \item $conferencePublications$
 $endfor$
-\end{enumerate}
+\end{etaremune}
+}
 $endif$
 
 \subsection*{Conference Presentations}
 $if(conferencePresentations)$
-\begin{enumerate}
+{\def\labelprefix{P}%
+\begin{etaremune}
 $for(conferencePresentations)$
 \item $conferencePresentations$
 $endfor$
-\end{enumerate}
+\end{etaremune}
+}
 $endif$
 
 \subsection*{Articles}
 $if(articles)$
-\begin{enumerate}
+{\def\labelprefix{A}%
+\begin{etaremune}
 $for(articles)$
 \item $articles$
 $endfor$
-\end{enumerate}
+\end{etaremune}
+}
 $endif$
 
 \section*{Teaching}
@@ -175,24 +191,37 @@ $endfor$
 \end{enumerate}
 $endif$
 
+$if(grants)$
+\section*{Sponsored Projects}
+\noindent
+$for(grants)$
+\note{$grants.period$}\textbf{$grants.title$}\\
+Amount: $grants.amount$\\
+Sponsor/Program: $grants.agent$, $grants.program$\\
+\textbf{Role: } $grants.role$\\[.2cm]
+$endfor$
+$endif$
+
 \section*{Awards and Recognition}
 $if(awards)$
-\begin{enumerate}
+{\def\labelprefix{A}%
+\begin{etaremune}
 $for(awards)$
 \item $awards$
 $endfor$
-\end{enumerate}
+\end{etaremune}
+}
 $endif$
 
 \section*{Software}
 Through my academic career I have both created and publicly released open source software:
 
 $if(software)$
-\begin{enumerate}
+\begin{itemize}
 $for(software)$
 \item \textit{$software.name$}  ($software.stars$ stars on GitHub)\\$software.description$\\$software.url$
 $endfor$
-\end{enumerate}
+\end{itemize}
 $endif$
 
 %\section*{Hackathons}
@@ -208,11 +237,11 @@ $endif$
 
 \section*{Service}
 $if(service)$
-\begin{enumerate}
+\begin{itemize}
 $for(service)$
 \item $service$
 $endfor$
-\end{enumerate}
+\end{itemize}
 $endif$
 
 
